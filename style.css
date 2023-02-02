@@ -1,0 +1,24 @@
+body{
+    background-color: darkkhaki;
+}
+h1{
+background-color: darkgreen;
+}
+#createdBy{
+    background-color: blue;
+}
+#container{
+    background-color: aqua;
+}
+#inputContainer{
+    background-color: blueviolet;
+}
+.toDoInput{
+    background-color: cadetblue;
+}
+#addButton{
+    background-color: coral;
+}
+#toDoContainer{
+    background-color: cornflowerblue;
+}
